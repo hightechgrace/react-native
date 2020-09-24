@@ -96,7 +96,7 @@
     "escape-string-regexp": "^1.0.5",
     "eslint-plugin-relay": "1.7.0",
     "event-target-shim": "^5.0.1",
-    "fbjs": "^1.0.0",
+    "fbjs": "^2.0.0",
     "fbjs-scripts": "^1.1.0",
     "hermes-engine": "~0.4.0",
     "invariant": "^2.2.4",
